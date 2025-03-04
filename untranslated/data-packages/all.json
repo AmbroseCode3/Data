@@ -3,6 +3,62 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "Indicator_12-3-1/data.csv",
+      "name": "Indicator_12-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(a) Food Loss Index",
+                "(b) Food Waste Per Capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Variable Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Households",
+                "Out-of-home Consumption",
+                "Retail",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes",
+                "Kilogram (KG)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "Indicator_12-3-1"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
