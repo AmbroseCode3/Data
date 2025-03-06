@@ -1,12 +1,12 @@
 Year,Series,Variable Name,Unit,Value
-2019,(a) Food Loss Index,,Tonnes,"46,640,843.73"
-2019,(a) Food Loss Index,Households,Tonnes,"37,941,470.49"
-2019,(a) Food Loss Index,Out-of-home Consumption,Tonnes,"5,556,256.60"
-2019,(a) Food Loss Index,Retail,Tonnes,"3,143,116.64"
-2022,(a) Food Loss Index,,Tonnes,"46,640,843.73"
-2022,(a) Food Loss Index,Households,Tonnes,"37,941,470.49"
-2022,(a) Food Loss Index,Out-of-home Consumption,Tonnes,"5,556,256.60"
-2022,(a) Food Loss Index,Retail,Tonnes,"3,143,116.64"
+2019,(a) Food Loss Index,,Tonnes,46640843.73
+2019,(a) Food Loss Index,Households,Tonnes,37941470.49
+2019,(a) Food Loss Index,Out-of-home Consumption,Tonnes,5556256.6
+2019,(a) Food Loss Index,Retail,Tonnes,3143116.64
+2022,(a) Food Loss Index,,Tonnes,46640843.73
+2022,(a) Food Loss Index,Households,Tonnes,37941470.49
+2022,(a) Food Loss Index,Out-of-home Consumption,Tonnes,5556256.6
+2022,(a) Food Loss Index,Retail,Tonnes,3143116.64
 2019,(b) Food Waste Per Capita,,Kilogram (KG),229.41
 2019,(b) Food Waste Per Capita,Households,Kilogram (KG),186.62
 2019,(b) Food Waste Per Capita,Out-of-home Consumption,Kilogram (KG),27.33
